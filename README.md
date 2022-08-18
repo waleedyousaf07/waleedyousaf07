@@ -2,7 +2,7 @@
 - I'm a software engg, graduated in 2019, from CUI, Islamabad 🎓
 - I’m currently working as Software Engg, leveraging MERN stack 💻
 - I'm friendly 🥰 and adaptive but moody sometimes 😏
-- I love playing games 🎮🏏⚽
+- Gaming is my poison 🎮🏏⚽
 - I'm a Cancerian ♋
 - I need food w/o veggies 😂
 - I forgive but don't forget 😈
