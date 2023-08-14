@@ -1,5 +1,6 @@
-- Hi, I’m @WaleedYousaf 👋
-- I'm a software engg, graduated in 2019, from CUI, Islamabad 🎓
+<h1>Hi, I’m Waleed Yousaf 👋</h1>
+
+- I'm a Software Engineer, graduated in 2019, from COMSATS University, Islamabad, Pakistan 🎓
 - I’m currently working as Software Engg, leveraging MERN stack 💻
 - I'm friendly 🥰 and adaptive but moody sometimes 😏
 - I love playing games 🎮🏏⚽
